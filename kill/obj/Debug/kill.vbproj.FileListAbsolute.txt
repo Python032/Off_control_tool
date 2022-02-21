@@ -1,0 +1,17 @@
+C:\Users\huyaoyu\source\repos\kill\kill\bin\Debug\kill.exe
+C:\Users\huyaoyu\source\repos\kill\kill\bin\Debug\kill.pdb
+C:\Users\huyaoyu\source\repos\kill\kill\bin\Debug\kill.xml
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\kill.vbproj.AssemblyReference.cache
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\kill.Form1.resources
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\kill.Resources.resources
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\kill.vbproj.GenerateResource.cache
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\kill.vbproj.CoreCompileInputs.cache
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\kill.exe
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\kill.xml
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\kill.pdb
+C:\Users\huyaoyu\source\repos\kill\kill\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\huyaoyu\source\repos\kill\kill\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\Interop.MSWinsockLib.dll
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\kill.vbproj.ResolveComReference.cache
+C:\Users\huyaoyu\source\repos\kill\kill\obj\Debug\kill.SplashScreen1.resources
